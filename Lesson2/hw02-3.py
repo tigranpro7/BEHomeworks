@@ -21,3 +21,5 @@ while number1  !=0:
         last_big = bigest_number
     number1 = number1 // 10
 print(last_big)
+
+list = [первое, второе, третье]
